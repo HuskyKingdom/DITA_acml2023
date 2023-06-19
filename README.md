@@ -1,6 +1,6 @@
 # Reinforcement Learning Supervised Joint Termination Recognition in Object Navigation
 
-PyTorch implementation of our CoRL 2023 paper **Reinforcement Learning Supervised Joint Termination Recognition in Object Navigation** in AI2-THOR environment. This implementation is modified based on [SAVN](https://github.com/allenai/savn) and [MJOLNIR_O](https://github.com/cassieqiuyd/MJOLNIR).
+PyTorch implementation of our ACML 2023 paper **Reinforcement Learning Supervised Joint Termination Recognition in Object Navigation** in AI2-THOR environment. This implementation is modified based on [SAVN](https://github.com/allenai/savn) and [MJOLNIR_O](https://github.com/cassieqiuyd/MJOLNIR).
 
 ![DITA Visualization Demo](https://raw.githubusercontent.com/HuskyKingdom/DITA_corl2023/main/demo.gif)
 
