@@ -1,5 +1,9 @@
 # Learning to Terminate in Object Navigation
 
+___
+Yuhang Song, Anh Nguyen, Chun-Yi Lee 
+
+
 PyTorch implementation of our ACML 2023 paper **Learning to Terminate in Object Navigation** in AI2-THOR environment. This implementation is modified based on [SAVN](https://github.com/allenai/savn) and [MJOLNIR_O](https://github.com/cassieqiuyd/MJOLNIR). Please refer to [our paper](https://arxiv.org/pdf/2309.16164v1.pdf) for more details. 
 
 
